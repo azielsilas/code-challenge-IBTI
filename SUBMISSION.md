@@ -101,5 +101,5 @@ Why:
 
 ## Execution time
 
-- Start time: 2026-04-09 08:45:00 
-- End time: 2026-04-09 09:48:
+- Start time: 2026-04-09 08:45
+- End time: 2026-04-09 09:48
